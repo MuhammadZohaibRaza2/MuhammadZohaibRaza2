@@ -64,67 +64,14 @@ Full-stack developer who builds **AI-integrated web applications** and **scalabl
 
 ---
 
-### 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/MuhammadZohaibRaza2/F25-378-D-AlertEye">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadZohaibRaza2&repo=F25-378-D-AlertEye&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&text_color=8b949e&icon_color=b794f6">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadZohaibRaza2&repo=F25-378-D-AlertEye&theme=default&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=8A63D2&text_color=333333&icon_color=8A63D2">
-    <img alt="AlertEye" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadZohaibRaza2&repo=F25-378-D-AlertEye&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&text_color=8b949e&icon_color=b794f6" width="49%">
-  </picture>
-</a>
-<a href="https://github.com/MuhammadZohaibRaza2/SpeakSQL">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadZohaibRaza2&repo=SpeakSQL&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&text_color=8b949e&icon_color=b794f6">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadZohaibRaza2&repo=SpeakSQL&theme=default&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=8A63D2&text_color=333333&icon_color=8A63D2">
-    <img alt="SpeakSQL" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadZohaibRaza2&repo=SpeakSQL&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&text_color=8b949e&icon_color=b794f6" width="49%">
-  </picture>
-</a>
-
-<a href="https://github.com/MuhammadAwais1315/PDC-Project">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAwais1315&repo=PDC-Project&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&text_color=8b949e&icon_color=b794f6">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAwais1315&repo=PDC-Project&theme=default&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=8A63D2&text_color=333333&icon_color=8A63D2">
-    <img alt="PDC-Project" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadAwais1315&repo=PDC-Project&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&text_color=8b949e&icon_color=b794f6" width="49%">
-  </picture>
-</a>
-<a href="https://github.com/MuhammadZohaibRaza2/CS4067_EventBooking_I221331_Muhammad-Zohaib-Raza">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadZohaibRaza2&repo=CS4067_EventBooking_I221331_Muhammad-Zohaib-Raza&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&text_color=8b949e&icon_color=b794f6">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadZohaibRaza2&repo=CS4067_EventBooking_I221331_Muhammad-Zohaib-Raza&theme=default&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=8A63D2&text_color=333333&icon_color=8A63D2">
-    <img alt="Event Booking" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadZohaibRaza2&repo=CS4067_EventBooking_I221331_Muhammad-Zohaib-Raza&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&text_color=8b949e&icon_color=b794f6" width="49%">
-  </picture>
-</a>
-
-<a href="https://github.com/MuhammadZohaibRaza2/Interplanetary-File-System-IPFS-Project">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadZohaibRaza2&repo=Interplanetary-File-System-IPFS-Project&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&text_color=8b949e&icon_color=b794f6">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadZohaibRaza2&repo=Interplanetary-File-System-IPFS-Project&theme=default&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=8A63D2&text_color=333333&icon_color=8A63D2">
-    <img alt="IPFS Project" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadZohaibRaza2&repo=Interplanetary-File-System-IPFS-Project&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&text_color=8b949e&icon_color=b794f6" width="49%">
-  </picture>
-</a>
-<a href="https://github.com/MuhammadZohaibRaza2/AI2002_Artificial-Intelligence_Final-Project_Spring-2025">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadZohaibRaza2&repo=AI2002_Artificial-Intelligence_Final-Project_Spring-2025&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&text_color=8b949e&icon_color=b794f6">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadZohaibRaza2&repo=AI2002_Artificial-Intelligence_Final-Project_Spring-2025&theme=default&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=8A63D2&text_color=333333&icon_color=8A63D2">
-    <img alt="AI TORCS Controller" src="https://github-readme-stats.vercel.app/api/pin/?username=MuhammadZohaibRaza2&repo=AI2002_Artificial-Intelligence_Final-Project_Spring-2025&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&text_color=8b949e&icon_color=b794f6" width="49%">
-  </picture>
-</a>
-
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MuhammadZohaibRaza2&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&icon_color=b794f6&text_color=8b949e&ring_color=8A63D2&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=MuhammadZohaibRaza2&show_icons=true&theme=default&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=8A63D2&icon_color=8A63D2&text_color=333333&ring_color=8A63D2&count_private=true">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MuhammadZohaibRaza2&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&icon_color=b794f6&text_color=8b949e&ring_color=8A63D2&count_private=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api?username=MuhammadZohaibRaza2&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&icon_color=b794f6&text_color=8b949e&ring_color=8A63D2&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api?username=MuhammadZohaibRaza2&show_icons=true&theme=default&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=8A63D2&icon_color=8A63D2&text_color=333333&ring_color=8A63D2&count_private=true">
+  <img alt="GitHub Stats" src="https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api?username=MuhammadZohaibRaza2&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&icon_color=b794f6&text_color=8b949e&ring_color=8A63D2&count_private=true">
 </picture>
 
 <picture>
@@ -134,9 +81,9 @@ Full-stack developer who builds **AI-integrated web applications** and **scalabl
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZohaibRaza2&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&text_color=8b949e&langs_count=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZohaibRaza2&layout=compact&theme=default&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=8A63D2&text_color=333333&langs_count=8">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadZohaibRaza2&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&text_color=8b949e&langs_count=8">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api/top-langs/?username=MuhammadZohaibRaza2&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&text_color=8b949e&langs_count=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api/top-langs/?username=MuhammadZohaibRaza2&layout=compact&theme=default&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=8A63D2&text_color=333333&langs_count=8">
+  <img alt="Top Languages" src="https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api/top-langs/?username=MuhammadZohaibRaza2&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&text_color=8b949e&langs_count=8">
 </picture>
 
 </div>
