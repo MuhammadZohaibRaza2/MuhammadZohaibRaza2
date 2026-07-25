@@ -16,13 +16,13 @@
 
 ---
 
-### 🧑‍💻 About
+### About
 
 Full-stack developer who builds **AI-integrated web applications** and **scalable backend services** — from federated learning and NLP-to-SQL pipelines to microservices and distributed systems. CS graduate from **FAST National University (FAST-NU), Islamabad — Class of 2026**. Passionate about bridging cutting-edge AI research with production-grade engineering.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -64,7 +64,7 @@ Full-stack developer who builds **AI-integrated web applications** and **scalabl
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -90,7 +90,7 @@ Full-stack developer who builds **AI-integrated web applications** and **scalabl
 
 ---
 
-### 🤝 Connect
+### Connect
 
 <div align="center">
 
