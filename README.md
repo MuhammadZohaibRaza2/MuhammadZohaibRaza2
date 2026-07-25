@@ -22,6 +22,9 @@ Full-stack developer who builds **AI-integrated web applications** and **scalabl
 
 ---
 
+<img align="right" width="1000" height="756" alt="coding" src="https://github.com/user-attachments/assets/49b4755b-5a46-454f-a3e7-a22055d9a15b" />
+
+
 ### Tech Stack
 
 **Languages**
