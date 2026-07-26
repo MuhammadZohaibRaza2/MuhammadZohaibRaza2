@@ -16,7 +16,7 @@
 
 ---
 
-### Abou
+### About
 
 Full-stack developer who builds **AI-integrated web applications** and **scalable backend services** — from federated learning and NLP-to-SQL pipelines to microservices and distributed systems. CS graduate from **FAST National University (FAST-NU), Islamabad — Class of 2026**. Passionate about bridging cutting-edge AI research with production-grade engineering.
 
