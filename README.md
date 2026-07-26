@@ -71,21 +71,21 @@ Full-stack developer who builds **AI-integrated web applications** and **scalabl
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api?username=MuhammadZohaibRaza2&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&icon_color=b794f6&text_color=8b949e&ring_color=8A63D2&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api?username=MuhammadZohaibRaza2&show_icons=true&theme=default&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=8A63D2&icon_color=8A63D2&text_color=333333&ring_color=8A63D2&count_private=true">
-  <img alt="GitHub Stats" src="https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api?username=MuhammadZohaibRaza2&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&icon_color=b794f6&text_color=8b949e&ring_color=8A63D2&count_private=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api?username=MuhammadZohaibRaza2&v=2&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&icon_color=b794f6&text_color=8b949e&ring_color=8A63D2&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api?username=MuhammadZohaibRaza2&v=2&show_icons=true&theme=default&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=8A63D2&icon_color=8A63D2&text_color=333333&ring_color=8A63D2&count_private=true">
+  <img alt="GitHub Stats" src="https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api?username=MuhammadZohaibRaza2&v=2&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&icon_color=b794f6&text_color=8b949e&ring_color=8A63D2&count_private=true">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MuhammadZohaibRaza2&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=8A63D2&fire=b794f6&currStreakLabel=b794f6&sideLabels=8A63D2">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MuhammadZohaibRaza2&theme=default&hide_border=false&border=d0d7de&background=ffffff&stroke=d0d7de&ring=8A63D2&fire=8A63D2&currStreakLabel=8A63D2&sideLabels=8A63D2&currStreakNum=333333&sideNums=333333&dates=666666">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=MuhammadZohaibRaza2&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=8A63D2&fire=b794f6&currStreakLabel=b794f6&sideLabels=8A63D2">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MuhammadZohaibRaza2&v=2&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=8A63D2&fire=b794f6&currStreakLabel=b794f6&sideLabels=8A63D2">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MuhammadZohaibRaza2&v=2&theme=default&hide_border=false&border=d0d7de&background=ffffff&stroke=d0d7de&ring=8A63D2&fire=8A63D2&currStreakLabel=8A63D2&sideLabels=8A63D2&currStreakNum=333333&sideNums=333333&dates=666666">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=MuhammadZohaibRaza2&v=2&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=8A63D2&fire=b794f6&currStreakLabel=b794f6&sideLabels=8A63D2">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api/top-langs/?username=MuhammadZohaibRaza2&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&text_color=8b949e&langs_count=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api/top-langs/?username=MuhammadZohaibRaza2&layout=compact&theme=default&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=8A63D2&text_color=333333&langs_count=8">
-  <img alt="Top Languages" src="https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api/top-langs/?username=MuhammadZohaibRaza2&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&text_color=8b949e&langs_count=8">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api/top-langs/?username=MuhammadZohaibRaza2&v=2&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&text_color=8b949e&langs_count=8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api/top-langs/?username=MuhammadZohaibRaza2&v=2&layout=compact&theme=default&hide_border=false&border_color=d0d7de&bg_color=ffffff&title_color=8A63D2&text_color=333333&langs_count=8">
+  <img alt="Top Languages" src="https://github-readme-stats-five-wine-5ba3tnamzu.vercel.app/api/top-langs/?username=MuhammadZohaibRaza2&v=2&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8A63D2&text_color=8b949e&langs_count=8">
 </picture>
 
 </div>
