@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=B794F6&center=true&vCenter=true&width=550&height=35&lines=Full-Stack+Developer;AI+Systems+Builder;FAST-NU+CS+Graduate+'26)](https://git.io/typing-svg)
 
-</div>
+</div> 
 
 <!-- ═══════════════════ SNAKE ANIMATION ═══════════════════ -->
 
