@@ -10,6 +10,7 @@
 
 </div> 
 
+
 <!-- ═══════════════════ SNAKE ANIMATION ═══════════════════ -->
 
 <img src="https://raw.githubusercontent.com/MuhammadZohaibRaza2/MuhammadZohaibRaza2/main/contributiongrid.svg" alt="snake eating contributions" width="100%">
