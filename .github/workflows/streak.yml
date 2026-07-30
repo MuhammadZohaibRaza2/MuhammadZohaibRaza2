@@ -1,0 +1,53 @@
+name: Generate Streak Stats SVG
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Download streak SVG (dark)
+        run: |
+          mkdir -p dist
+          for i in 1 2 3 4 5; do
+            echo "Attempt $i..."
+            STATUS=$(curl -s -o dist/streak-dark.svg -w "%{http_code}" \
+              "https://streak-stats.demolab.com?user=MuhammadZohaibRaza2&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=8A63D2&fire=b794f6&currStreakLabel=b794f6&sideLabels=8A63D2")
+            if [ "$STATUS" = "200" ] && grep -q "svg" dist/streak-dark.svg && ! grep -q "Failed to retrieve" dist/streak-dark.svg; then
+              echo "Dark SVG OK."
+              break
+            fi
+            echo "Retrying in 30s..."
+            sleep 30
+          done
+
+      - name: Download streak SVG (light)
+        run: |
+          for i in 1 2 3 4 5; do
+            echo "Attempt $i..."
+            STATUS=$(curl -s -o dist/streak-light.svg -w "%{http_code}" \
+              "https://streak-stats.demolab.com?user=MuhammadZohaibRaza2&theme=default&hide_border=false&border=d0d7de&background=ffffff&stroke=d0d7de&ring=8A63D2&fire=8A63D2&currStreakLabel=8A63D2&sideLabels=8A63D2&currStreakNum=333333&sideNums=333333&dates=666666")
+            if [ "$STATUS" = "200" ] && grep -q "svg" dist/streak-light.svg && ! grep -q "Failed to retrieve" dist/streak-light.svg; then
+              echo "Light SVG OK."
+              break
+            fi
+            echo "Retrying in 30s..."
+            sleep 30
+          done
+
+      - name: Push SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

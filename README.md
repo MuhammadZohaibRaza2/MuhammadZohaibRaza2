@@ -77,9 +77,9 @@ Full-stack developer who builds **AI-integrated web applications** and **scalabl
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MuhammadZohaibRaza2&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=8A63D2&fire=b794f6&currStreakLabel=b794f6&sideLabels=8A63D2&card_width=495">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MuhammadZohaibRaza2&theme=default&hide_border=false&border=d0d7de&background=ffffff&stroke=d0d7de&ring=8A63D2&fire=8A63D2&currStreakLabel=8A63D2&sideLabels=8A63D2&currStreakNum=333333&sideNums=333333&dates=666666&card_width=495">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=MuhammadZohaibRaza2&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=8A63D2&fire=b794f6&currStreakLabel=b794f6&sideLabels=8A63D2&card_width=495">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadZohaibRaza2/MuhammadZohaibRaza2/output/streak-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadZohaibRaza2/MuhammadZohaibRaza2/output/streak-light.svg">
+  <img alt="GitHub Streak" src="https://raw.githubusercontent.com/MuhammadZohaibRaza2/MuhammadZohaibRaza2/output/streak-dark.svg">
 </picture>
 
 <picture>
