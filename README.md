@@ -24,7 +24,9 @@ Full-stack developer who builds **AI-integrated web applications** and **scalabl
 
 ### Tech Stack
 
-<img align="right" width="400" alt="coding" src="https://github.com/user-attachments/assets/49b4755b-5a46-454f-a3e7-a22055d9a15b" />
+<table>
+<tr>
+<td valign="top">
 
 **Languages**
 
@@ -63,6 +65,13 @@ Full-stack developer who builds **AI-integrated web applications** and **scalabl
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+</td>
+<td valign="top" align="right" width="38%">
+<img alt="coding" src="https://github.com/user-attachments/assets/49b4755b-5a46-454f-a3e7-a22055d9a15b" width="100%" />
+</td>
+</tr>
+</table>
 
 ---
 
